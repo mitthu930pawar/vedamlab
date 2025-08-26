@@ -1,3 +1,16 @@
 {
-"tabs": [" index.html", " style.css","script.js"]
+  "name": "vedamlab",
+  "version": "1.0.0",
+  "description": "A simple HTML, CSS, and JavaScript project",
+  "entry": "index.html",
+  "files": [
+    "index.html",
+    "style.css",
+    "script.js"
+  ],
+  "scripts": {
+    "start": "live-server --open=index.html"
+  },
+  "tags": ["html", "css", "javascript"],
+  "author": "mitthu930pawar"
 }
