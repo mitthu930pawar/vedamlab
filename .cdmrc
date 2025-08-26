@@ -1,1 +1,18 @@
+{
+  "name": "basic-html-css-js-project",
+  "version": "1.0.0",
+  "description": "A simple project with HTML, CSS, and JavaScript files.",
+  "entry": "index.html",
+  "files": [
+    "index.html",
+    "style.css",
+    "script.js"
+  ],
+  "scripts": {
+    "start": "live-server --open=index.html",
+    "build": "echo 'No build step required for plain HTML/CSS/JS'"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
 
