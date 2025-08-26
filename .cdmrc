@@ -1,16 +1,15 @@
 {
   "name": "vedamlab",
   "version": "1.0.0",
-  "description": "A simple HTML, CSS, and JavaScript project",
+  "description": "HTML CSS JS lab for Vedam platform",
   "entry": "index.html",
-  "files": [
+  "visibleFiles": [
     "index.html",
     "style.css",
     "script.js"
   ],
-  "scripts": {
-    "start": "live-server --open=index.html"
-  },
-  "tags": ["html", "css", "javascript"],
+  "openFiles": [
+    "index.html"
+  ],
   "author": "mitthu930pawar"
 }
